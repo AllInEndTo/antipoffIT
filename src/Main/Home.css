@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+}
+.header {
+    text-align: center;
+    margin: auto;
+    background-color: #512689;
+}
+
+.header-button {
+    border: 1px solid #fff;
+}
+
+.header-title {
+    display: inline-block;
+    color: #fff;
+    font-size: 64px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.header-text {
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.cardplace {
+    margin: 10px;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    width: 305px;
+    height: 263px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    background-color: #512689;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+
+ul {
+    padding: 0;
+}
